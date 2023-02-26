@@ -1,0 +1,6 @@
+- "!include public_enquirer.yaml"
+- "!include public_provider.yaml"
+- "!include public_provider_tags.yaml"
+- "!include public_quote.yaml"
+- "!include public_quote_tag.yaml"
+- "!include public_tags.yaml"

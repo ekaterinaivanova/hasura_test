@@ -1,0 +1,3 @@
+table:
+  name: quote_tag
+  schema: public

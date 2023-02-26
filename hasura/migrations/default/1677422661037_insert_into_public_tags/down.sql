@@ -1,1 +1,1 @@
-DELETE FROM "public"."tags" WHERE "id" = 'PREHRANA_ZIVALI ';
+DELETE FROM "public"."tags" WHERE "id" = 'PREHRANA_ZIVALI';
